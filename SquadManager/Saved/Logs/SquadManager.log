@@ -986,3 +986,240 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.24-18.35.38:639][  0]LogAssetRegistry: Asset discovery search completed in 10.2617 seconds
 [2022.05.24-18.35.38:645][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
 [2022.05.24-18.35.38:646][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.05.24-18.37.28:891][650]LogDerivedDataCache: C:/Users/reaga/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.588 and deleted 0 file(s) with total size 0 MiB.
+[2022.05.24-18.39.44:690][613]Cmd: SELECT NONE
+[2022.05.24-18.55.39:356][868]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.1-19764885+++UE5+Release-5.0
+[2022.05.24-18.55.39:524][868]LogAnalyticsSessionSummarySender: Sent summary session report for: AppId=UEEditor.Rocket.Release SessionId={D48977F4-4101-704B-C6F3-D9972AA9EBDD}
+[2022.05.24-19.00.08:776][928]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2022.05.24-19.00.08:777][928]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2022.05.24-19.00.08:781][928]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_94E70B075C14E91201_1954172175
+[2022.05.24-19.00.08:788][928]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_94E70B075C14E91201_1954172175
+[2022.05.24-19.00.08:850][929]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.00.18:754][194]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.00.24:444][533]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.00.47:300][327]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.00.50:243][502]Cmd: POLY SELECT ADJACENT WALLS
+[2022.05.24-19.00.50:277][504]Cmd: POLY SELECT MEMORY UNION
+[2022.05.24-19.01.08:009][559]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.01.08:109][565]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.01.08:142][567]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.01.08:193][570]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.01.08:243][573]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.01.08:554][585]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.01.09:238][603]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.01.09:321][608]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.01.09:525][620]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.01.10:224][662]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.01.11:314][727]Cmd: TRANSACTION UNDO
+[2022.05.24-19.01.11:314][727]LogEditorTransaction: Undo Set Scale
+[2022.05.24-19.01.11:364][728]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.01.20:171][230]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.01.23:869][451]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.01.27:187][649]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.01.54:784][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.24-19.01.54:790][909]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/WH/GVK8BE1KPXZD918V9X7CAV_Auto1
+[2022.05.24-19.01.54:790][909]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/GVK8BE1KPXZD918V9X7CAV_Auto1A21F8F934EBD4309B6DD40A7C3F5EE8E.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/WH/GVK8BE1KPXZD918V9X7CAV_Auto1.uasset'
+[2022.05.24-19.01.54:791][909]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.020
+[2022.05.24-19.01.54:791][909]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.020
+[2022.05.24-19.02.35:943][478]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.24-19.02.35:952][478]LogWorldPartition: Display: GenerateStreaming started...
+[2022.05.24-19.02.35:952][478]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.05.24-19.02.35:952][478]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.05.24-19.02.35:952][478]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.05.24-19.02.35:952][478]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.05.24-19.02.35:952][478]LogWorldPartition: Display: GetPartitionedActors took 233 us
+[2022.05.24-19.02.35:952][478]LogWorldPartition: Display: GenerateStreaming took 602 us
+[2022.05.24-19.02.35:955][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.24-19.02.35:958][478]PIE: New page: PIE session: ThirdPersonMap (May 24, 2022, 11:02:35 AM)
+[2022.05.24-19.02.35:965][478]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.05.24-19.02.35:965][478]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.05.24-19.02.35:966][478]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.05.24-19.02.35:972][478]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.05.24-19.02.35:973][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006458s)
+[2022.05.24-19.02.35:973][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006684s)
+[2022.05.24-19.02.35:973][478]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.24-19.02.35:974][478]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.05.24-19.02.35:974][478]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.05.24-19.02.35:974][478]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.05.24-19.02.35:976][478]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.05.24-19.02.35:976][478]LogPlayLevel: PIE: World Init took: (0.002872s)
+[2022.05.24-19.02.35:982][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.24-19.02.35:984][478]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.05.24-19.02.35:984][478]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.24-19.02.35:984][478]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.24-19.02.35:984][478]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.24-19.02.35:984][478]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.24-19.02.35:984][478]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.24-19.02.35:984][478]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.24-19.02.35:984][478]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.24-19.02.35:984][478]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.24-19.02.35:985][478]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.24-19.02.35:985][478]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.24-19.02.35:985][478]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.24-19.02.35:987][478]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.24-19.02.36:010][478]LogAudioMixer: Display: Using Audio Hardware Device Headphones (MPOW H12 IPO Stereo)
+[2022.05.24-19.02.36:011][478]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.24-19.02.36:011][478]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.24-19.02.36:011][478]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.24-19.02.36:012][478]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.05.24-19.02.36:012][478]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.05.24-19.02.36:013][478]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.05.24-19.02.36:013][478]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.05.24-19.02.36:013][478]LogInit: FAudioDevice initialized.
+[2022.05.24-19.02.36:013][478]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2022.05.24-19.02.36:030][478]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.05.24-19.02.36:032][478]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2022.05.24-15.02.36
+[2022.05.24-19.02.36:032][478]LogWorld: Bringing up level for play took: 0.002623
+[2022.05.24-19.02.36:035][478]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2022.05.24-19.02.36:102][478]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.05.24-19.02.36:102][478]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.05.24-19.02.36:105][478]PIE: Server logged in
+[2022.05.24-19.02.36:106][478]PIE: Play in editor total start time 0.159 seconds.
+[2022.05.24-19.02.38:573][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.24-19.02.38:573][617]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.05.24-19.02.38:573][617]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.24-19.02.38:575][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.24-19.02.38:589][617]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.24-19.02.38:591][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.24-19.02.38:600][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.24-19.02.38:603][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.05.24-19.02.38:605][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.05.24-19.02.38:619][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.05.24-19.02.38:649][618]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.05.24-19.04.31:358][412]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.05.24-19.06.51:870][235]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.06.59:592][500]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.07.18:341][793]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.07.25:636][934]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.07.25:636][934]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.07.25:801][941]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.07.28:084][ 52]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.08.09:870][432]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.08.38:407][826]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.10.42:089][206]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.05.24-19.11.40:410][865]LogSlate: Window 'Project Settings' being destroyed
+[2022.05.24-19.11.43:877][ 65]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/WH/GVK8BE1KPXZD918V9X7CAV
+[2022.05.24-19.11.43:879][ 65]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/WH/GVK8BE1KPXZD918V9X7CAV
+[2022.05.24-19.11.43:879][ 65]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/GVK8BE1KPXZD918V9X7CAV2B059ABB462A36028D78219A1E762074.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/WH/GVK8BE1KPXZD918V9X7CAV.uasset'
+[2022.05.24-19.11.43:881][ 65]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/WH/GVK8BE1KPXZD918V9X7CAV
+[2022.05.24-19.11.43:891][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.24-19.11.43:896][ 65]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2022.05.24-19.11.43:896][ 65]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/ThirdPersonMap4001BD474185104BDE5336903166B3DB.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2022.05.24-19.11.43:923][ 65]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.24-19.11.43:923][ 65]LogContentValidation: Display: Validating NavMeshBoundsVolume /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_94E70B075C14E91201_1954172175
+[2022.05.24-19.11.43:923][ 65]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2022.05.24-19.13.36:729][326]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.05.24-19.14.57:880][604]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.24-19.14.59:634][709]Cmd: ACTOR HIDE SELECTED
+[2022.05.24-19.15.02:942][907]Cmd: ACTOR HIDE SELECTED
+[2022.05.24-19.15.03:996][968]Cmd: ACTOR HIDE SELECTED
+[2022.05.24-19.15.10:108][332]Cmd: TRANSACTION UNDO
+[2022.05.24-19.15.10:108][332]LogEditorTransaction: Undo Clicking on Actors
+[2022.05.24-19.15.10:713][357]Cmd: TRANSACTION UNDO
+[2022.05.24-19.15.10:713][357]LogEditorTransaction: Undo Set Item Visibility
+[2022.05.24-19.15.10:856][364]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.15.11:144][374]Cmd: TRANSACTION UNDO
+[2022.05.24-19.15.11:144][374]LogEditorTransaction: Undo Hide Selected
+[2022.05.24-19.15.11:732][401]Cmd: TRANSACTION UNDO
+[2022.05.24-19.15.11:732][401]LogEditorTransaction: Undo Clicking on Actors
+[2022.05.24-19.15.14:904][591]Cmd: TRANSACTION REDO
+[2022.05.24-19.15.14:904][591]LogEditorTransaction: Redo Clicking on Actors
+[2022.05.24-19.15.15:953][638]Cmd: TRANSACTION UNDO
+[2022.05.24-19.15.15:954][638]LogEditorTransaction: Undo Clicking on Actors
+[2022.05.24-19.15.16:270][657]Cmd: TRANSACTION UNDO
+[2022.05.24-19.15.16:270][657]LogEditorTransaction: Undo Hide Selected
+[2022.05.24-19.15.16:438][664]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.18.07:866][130]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.18.09:552][213]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.18.37:440][854]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.24-19.18.37:449][854]LogWorldPartition: Display: GenerateStreaming started...
+[2022.05.24-19.18.37:449][854]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.05.24-19.18.37:449][854]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.05.24-19.18.37:449][854]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.05.24-19.18.37:449][854]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.05.24-19.18.37:449][854]LogWorldPartition: Display: GetPartitionedActors took 46 us
+[2022.05.24-19.18.37:449][854]LogWorldPartition: Display: GenerateStreaming took 282 us
+[2022.05.24-19.18.37:449][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.24-19.18.37:449][854]PIE: New page: PIE session: ThirdPersonMap (May 24, 2022, 11:18:37 AM)
+[2022.05.24-19.18.37:450][854]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.05.24-19.18.37:456][854]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.05.24-19.18.37:456][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006094s)
+[2022.05.24-19.18.37:456][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006170s)
+[2022.05.24-19.18.37:456][854]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.24-19.18.37:456][854]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.05.24-19.18.37:459][854]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.05.24-19.18.37:459][854]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.05.24-19.18.37:460][854]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.05.24-19.18.37:460][854]LogPlayLevel: PIE: World Init took: (0.003661s)
+[2022.05.24-19.18.37:467][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.05.24-19.18.37:468][854]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.05.24-19.18.37:468][854]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.24-19.18.37:468][854]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.24-19.18.37:468][854]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.24-19.18.37:468][854]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.24-19.18.37:468][854]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.24-19.18.37:468][854]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.24-19.18.37:468][854]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.24-19.18.37:468][854]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.24-19.18.37:468][854]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.24-19.18.37:468][854]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.24-19.18.37:468][854]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.24-19.18.37:470][854]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.24-19.18.37:491][854]LogAudioMixer: Display: Using Audio Hardware Device Headphones (MPOW H12 IPO Stereo)
+[2022.05.24-19.18.37:491][854]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.24-19.18.37:491][854]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.24-19.18.37:491][854]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.24-19.18.37:492][854]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.05.24-19.18.37:492][854]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.05.24-19.18.37:493][854]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.05.24-19.18.37:493][854]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.05.24-19.18.37:493][854]LogInit: FAudioDevice initialized.
+[2022.05.24-19.18.37:493][854]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2022.05.24-19.18.37:508][854]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.05.24-19.18.37:510][854]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2022.05.24-15.18.37
+[2022.05.24-19.18.37:510][854]LogWorld: Bringing up level for play took: 0.002455
+[2022.05.24-19.18.37:511][854]LogNavigation: Warning: NavData RegistrationFailed_AgentNotValid, NavData instance contains navmesh that doesn't support any of expected agent types.
+[2022.05.24-19.18.37:513][854]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2022.05.24-19.18.37:516][854]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.05.24-19.18.37:516][854]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.05.24-19.18.37:517][854]PIE: Server logged in
+[2022.05.24-19.18.37:517][854]PIE: Play in editor total start time 0.071 seconds.
+[2022.05.24-19.18.58:789][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.24-19.18.58:789][123]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.05.24-19.18.58:789][123]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.24-19.18.58:789][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.24-19.18.58:802][123]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.24-19.18.58:804][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.24-19.18.58:811][123]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.24-19.18.58:811][123]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.05.24-19.18.58:812][123]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.05.24-19.18.58:815][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.24-19.18.58:817][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.24-19.18.58:876][125]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.05.24-19.20.33:170][785]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.20.36:265][959]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.20.37:237][ 16]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.20.38:913][105]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.22.05:622][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.24-19.22.05:627][224]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto2
+[2022.05.24-19.22.05:627][224]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/ThirdPersonMap_Auto20990B0414E422DCD074842A7D611A2C4.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto2.umap'
+[2022.05.24-19.22.05:636][224]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/WH/GVK8BE1KPXZD918V9X7CAV_Auto2
+[2022.05.24-19.22.05:636][224]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/GVK8BE1KPXZD918V9X7CAV_Auto2E3F2E0D345E258D9A41F98BC017D2342.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/WH/GVK8BE1KPXZD918V9X7CAV_Auto2.uasset'
+[2022.05.24-19.22.05:637][224]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.027
+[2022.05.24-19.22.05:637][224]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.027
+[2022.05.24-19.27.25:224][888]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/WH/GVK8BE1KPXZD918V9X7CAV
+[2022.05.24-19.27.25:228][888]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/WH/GVK8BE1KPXZD918V9X7CAV
+[2022.05.24-19.27.25:229][888]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/GVK8BE1KPXZD918V9X7CAV075276794F560CF29F512DAB4CFA3B0D.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/WH/GVK8BE1KPXZD918V9X7CAV.uasset'
+[2022.05.24-19.27.25:231][888]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/WH/GVK8BE1KPXZD918V9X7CAV
+[2022.05.24-19.27.25:240][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.24-19.27.25:244][888]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2022.05.24-19.27.25:245][888]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/ThirdPersonMap8F39C1F74FF027E6F303D582810C8355.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2022.05.24-19.27.25:274][888]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.24-19.27.25:274][888]LogContentValidation: Display: Validating NavMeshBoundsVolume /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_94E70B075C14E91201_1954172175
+[2022.05.24-19.27.25:274][888]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2022.05.24-19.28.35:599][  6]Cmd: TRANSACTION UNDO
+[2022.05.24-19.28.35:599][  6]LogEditorTransaction: Undo Clicking on Elements
