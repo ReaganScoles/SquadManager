@@ -1223,3 +1223,143 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.24-19.27.25:274][888]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
 [2022.05.24-19.28.35:599][  6]Cmd: TRANSACTION UNDO
 [2022.05.24-19.28.35:599][  6]LogEditorTransaction: Undo Clicking on Elements
+[2022.05.24-19.36.48:021][295]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.36.50:957][452]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.36.57:635][829]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.36.58:709][877]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.37.28:486][656]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:487][656]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:488][656]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:488][656]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:501][657]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:501][657]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:502][657]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:502][657]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:518][658]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:518][658]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:519][658]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:519][658]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:536][659]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:536][659]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:537][659]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:537][659]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:537][659]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:537][659]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:553][660]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:553][660]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:554][660]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:554][660]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:569][661]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:569][661]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:569][661]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:570][661]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:586][662]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:586][662]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:587][662]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:587][662]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:588][662]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:588][662]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:602][663]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:602][663]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:602][663]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:602][663]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:648][664]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:648][664]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:648][664]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:648][664]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:648][664]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:648][664]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:648][664]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:649][664]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:649][664]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:649][664]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:649][664]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:649][664]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:674][665]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:674][665]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:675][665]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:675][665]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:675][665]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:675][665]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:676][665]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:676][665]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:705][666]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:705][666]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:706][666]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:706][666]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:706][666]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:706][666]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:706][666]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:707][666]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:730][667]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:730][667]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:730][667]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:731][667]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:731][667]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:731][667]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:756][668]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:756][668]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:757][668]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:757][668]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:758][668]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:758][668]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:758][668]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:758][668]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:785][669]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:785][669]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:786][669]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:786][669]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:786][669]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:786][669]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:787][669]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:787][669]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:814][670]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:814][670]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:814][670]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:815][670]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:815][670]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:815][670]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.28:978][674]LogDerivedDataCache: C:/Users/reaga/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.990 and deleted 0 file(s) with total size 0 MiB.
+[2022.05.24-19.37.29:053][677]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.37.30:005][732]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.30:005][732]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.30:138][739]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.37.31:142][799]Cmd: TRANSACTION UNDO
+[2022.05.24-19.37.31:142][799]LogEditorTransaction: Undo Edit Agent Radius
+[2022.05.24-19.37.33:032][897]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.33:032][897]LogNavigation: Warning: Changing AgentRadius directly on RecastNavMesh instance is unsupported. Please use Project Settings > NavigationSystem > SupportedAgents to change AgentRadius
+[2022.05.24-19.37.33:182][904]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.37.35:386][ 23]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.37.40:794][343]Cmd: TRANSACTION UNDO
+[2022.05.24-19.37.40:794][343]LogEditorTransaction: Undo Edit Agent Height
+[2022.05.24-19.37.41:170][354]Cmd: TRANSACTION UNDO
+[2022.05.24-19.37.41:170][354]LogEditorTransaction: Undo Edit Agent Radius
+[2022.05.24-19.38.10:106][983]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.38.12:885][138]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.38.21:276][632]Cmd: TRANSACTION UNDO
+[2022.05.24-19.38.21:276][632]LogEditorTransaction: Undo Edit Tile Size UU
+[2022.05.24-19.38.22:072][664]Cmd: TRANSACTION UNDO
+[2022.05.24-19.38.22:072][664]LogEditorTransaction: Undo Edit Tile Size UU
+[2022.05.24-19.38.23:162][729]Cmd: TRANSACTION UNDO
+[2022.05.24-19.38.23:162][729]LogEditorTransaction: Undo Edit Layer Partitioning
+[2022.05.24-19.38.24:079][784]Cmd: TRANSACTION UNDO
+[2022.05.24-19.38.24:079][784]LogEditorTransaction: Undo Edit Region Partitioning
+[2022.05.24-19.38.25:646][878]Cmd: TRANSACTION REDO
+[2022.05.24-19.38.25:646][878]LogEditorTransaction: Redo Edit Region Partitioning
+[2022.05.24-19.38.26:028][901]Cmd: TRANSACTION REDO
+[2022.05.24-19.38.26:028][901]LogEditorTransaction: Redo Edit Layer Partitioning
+[2022.05.24-19.38.27:095][965]Cmd: TRANSACTION REDO
+[2022.05.24-19.38.27:095][965]LogEditorTransaction: Redo Edit Tile Size UU
+[2022.05.24-19.38.27:879][ 12]Cmd: TRANSACTION UNDO
+[2022.05.24-19.38.27:879][ 12]LogEditorTransaction: Undo Edit Tile Size UU
+[2022.05.24-19.38.28:429][ 45]Cmd: TRANSACTION REDO
+[2022.05.24-19.38.28:429][ 45]LogEditorTransaction: Redo Edit Tile Size UU
+[2022.05.24-19.38.28:729][ 63]Cmd: TRANSACTION REDO
+[2022.05.24-19.38.28:729][ 63]LogEditorTransaction: Redo Edit Tile Size UU
+[2022.05.24-19.38.33:899][360]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.05.24-19.38.52:014][432]LogFileHelpers: No new changes to save!
+[2022.05.24-19.38.52:021][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.05.24-19.38.52:027][432]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2022.05.24-19.38.52:028][432]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/ThirdPersonMap824476024AFAC61C07ACC1A969B3C76A.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2022.05.24-19.38.52:055][432]AssetCheck: New page: Asset Save: ThirdPersonMap
+[2022.05.24-19.38.52:055][432]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
