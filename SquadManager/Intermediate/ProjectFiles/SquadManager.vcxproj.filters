@@ -38,6 +38,12 @@
     <Filter Include="Source\SquadManager">
       <UniqueIdentifier>{2C01D8CF-A8A6-3C27-842A-7CCF9A61D6A9}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\SquadManager\Raycast.cpp">
+      <Filter>Source\SquadManager</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SquadManager\Raycast.h">
+      <Filter>Source\SquadManager</Filter>
+    </ClInclude>
     <None Include="..\..\Source\SquadManager\SquadManager.Build.cs">
       <Filter>Source\SquadManager</Filter>
     </None>

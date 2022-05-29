@@ -1,0 +1,21 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\reaga\\documents\\full sail - project and portfolio v\\week 4\\squadmanager\\squadmanager\\source\\squadmanager\\raycast.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\reaga\\documents\\full sail - project and portfolio v\\week 4\\squadmanager\\squadmanager\\intermediate\\build\\win64\\squadmanagereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\reaga\\documents\\full sail - project and portfolio v\\week 4\\squadmanager\\squadmanager\\intermediate\\build\\win64\\unrealeditor\\development\\squadmanager\\definitions.squadmanager.h",
+            "c:\\users\\reaga\\documents\\full sail - project and portfolio v\\week 4\\squadmanager\\squadmanager\\source\\squadmanager\\raycast.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "c:\\users\\reaga\\documents\\full sail - project and portfolio v\\week 4\\squadmanager\\squadmanager\\intermediate\\build\\win64\\unrealeditor\\inc\\squadmanager\\raycast.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
