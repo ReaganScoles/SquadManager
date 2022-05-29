@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SquadManager.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\reaga\Documents\Full Sail - Project and Portfolio V\Week 4\SquadManager\SquadManager\Intermediate\Build\Win64\SquadManagerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\reaga\Documents\Full Sail - Project and Portfolio V\Week 4\SquadManager\SquadManager\Intermediate\Build\Win64\UnrealEditor\Development\SquadManager\SquadManager.cpp.obj"
+"C:\Users\reaga\Documents\Full Sail - Project and Portfolio V\Week 4\SquadManager\SquadManager\Intermediate\Build\Win64\UnrealEditor\Development\SquadManager\SquadMoveButton.cpp.obj"
+"C:\Users\reaga\Documents\Full Sail - Project and Portfolio V\Week 4\SquadManager\SquadManager\Intermediate\Build\Win64\UnrealEditor\Development\SquadManager\SquadManager.init.gen.cpp.obj"
+"C:\Users\reaga\Documents\Full Sail - Project and Portfolio V\Week 4\SquadManager\SquadManager\Intermediate\Build\Win64\UnrealEditor\Development\SquadManager\SquadMoveButton.gen.cpp.obj"
+"C:\Users\reaga\Documents\Full Sail - Project and Portfolio V\Week 4\SquadManager\SquadManager\Intermediate\Build\Win64\UnrealEditor\Development\SquadManager\Default.rc2.res"
+/OUT:"C:\Users\reaga\Documents\Full Sail - Project and Portfolio V\Week 4\SquadManager\SquadManager\Intermediate\Build\Win64\UnrealEditor\Development\SquadManager\UnrealEditor-SquadManager.lib"

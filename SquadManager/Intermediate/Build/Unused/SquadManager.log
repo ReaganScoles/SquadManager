@@ -1,0 +1,28 @@
+﻿  Cleaning SquadManagerEditor and UnrealHeaderTool binaries...
+  Using bundled DotNet SDK
+  Log file: C:\Users\reaga\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\reaga\Documents\Full Sail - Project and Portfolio V\Week 4\SquadManager).
+  Creating makefile for SquadManagerEditor (no existing makefile)
+  Parsing headers for SquadManagerEditor
+    Running UnrealHeaderTool "C:\Users\reaga\Documents\Full Sail - Project and Portfolio V\Week 4\SquadManager\SquadManager\SquadManager.uproject" "C:\Users\reaga\Documents\Full Sail - Project and Portfolio V\Week 4\SquadManager\SquadManager\Intermediate\Build\Win64\SquadManagerEditor\Development\SquadManagerEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\reaga\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for SquadManagerEditor in 1.8232312 seconds
+  Building SquadManagerEditor...
+  Using Visual Studio 2019 14.29.30142 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from SquadManager unity file: SquadManager.cpp, SquadMoveButton.cpp
+  Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+    Executing up to 6 processes, one per physical core
+    Requested 1.5 GB free memory per action, 3.16 GB available: limiting max parallel actions to 2
+  Building 9 actions with 2 processes...
+  [1/9] Resource Default.rc2
+  [2/9] Compile SharedPCH.Engine.ShadowErrors.cpp
+  [3/9] Compile SquadManager.cpp
+  [4/9] Compile SquadManager.init.gen.cpp
+  [5/9] Compile SquadMoveButton.gen.cpp
+  [6/9] Compile SquadMoveButton.cpp
+  [7/9] Link UnrealEditor-SquadManager.lib
+     Creating library C:\Users\reaga\Documents\Full Sail - Project and Portfolio V\Week 4\SquadManager\SquadManager\Intermediate\Build\Win64\UnrealEditor\Development\SquadManager\UnrealEditor-SquadManager.lib and object C:\Users\reaga\Documents\Full Sail - Project and Portfolio V\Week 4\SquadManager\SquadManager\Intermediate\Build\Win64\UnrealEditor\Development\SquadManager\UnrealEditor-SquadManager.exp
+  [8/9] Link UnrealEditor-SquadManager.dll
+     Creating library C:\Users\reaga\Documents\Full Sail - Project and Portfolio V\Week 4\SquadManager\SquadManager\Intermediate\Build\Win64\UnrealEditor\Development\SquadManager\UnrealEditor-SquadManager.suppressed.lib and object C:\Users\reaga\Documents\Full Sail - Project and Portfolio V\Week 4\SquadManager\SquadManager\Intermediate\Build\Win64\UnrealEditor\Development\SquadManager\UnrealEditor-SquadManager.suppressed.exp
+  [9/9] WriteMetadata SquadManagerEditor.target
+  Total time in Parallel executor: 39.19 seconds
+  Total execution time: 48.37 seconds

@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\reaga\\documents\\full sail - project and portfolio v\\week 4\\squadmanager\\squadmanager\\source\\squadmanager\\squadmovebutton.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\reaga\\documents\\full sail - project and portfolio v\\week 4\\squadmanager\\squadmanager\\intermediate\\build\\win64\\squadmanagereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\reaga\\documents\\full sail - project and portfolio v\\week 4\\squadmanager\\squadmanager\\intermediate\\build\\win64\\unrealeditor\\development\\squadmanager\\definitions.squadmanager.h",
+            "c:\\users\\reaga\\documents\\full sail - project and portfolio v\\week 4\\squadmanager\\squadmanager\\source\\squadmanager\\squadmovebutton.h",
+            "c:\\users\\reaga\\documents\\full sail - project and portfolio v\\week 4\\squadmanager\\squadmanager\\intermediate\\build\\win64\\unrealeditor\\inc\\squadmanager\\squadmovebutton.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
