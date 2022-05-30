@@ -824,3 +824,653 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.30-01.47.28:608][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
 [2022.05.30-01.47.28:647][ 20]LogPlayLevel: Display: Destroying online subsystem :Context_12
 [2022.05.30-01.47.28:673][ 20]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.05.30-01.56.26:802][525]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Quinn_Simple) ...
+[2022.05.30-01.56.31:752][706]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2022.05.30-01.56.31:800][706]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.30-01.56.31:864][706]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.05.30-01.56.32:156][706]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.30-01.56.32:571][706]LogViewport: Scene viewport resized to 738x502, mode Windowed.
+[2022.05.30-01.56.34:642][796]LogViewport: Scene viewport resized to 736x525, mode Windowed.
+[2022.05.30-01.56.34:783][798]LogViewport: Scene viewport resized to 467x283, mode Windowed.
+[2022.05.30-01.56.35:298][822]LogViewport: Scene viewport resized to 1141x866, mode Windowed.
+[2022.05.30-01.56.35:546][836]LogSlate: Window 'SK_Mannequin' being destroyed
+[2022.05.30-01.59.23:758][499]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SK_Mannequin
+[2022.05.30-01.59.23:759][499]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/SK_MannequinEA0877114821B6C76F0F84837664D73B.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset'
+[2022.05.30-01.59.23:790][499]AssetCheck: New page: Asset Save: SK_Mannequin
+[2022.05.30-01.59.23:790][499]LogContentValidation: Display: Validating Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2022.05.30-01.59.26:892][665]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SK_Mannequin
+[2022.05.30-01.59.26:892][665]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/SK_Mannequin4BBC913541020B19D24BADADC7B6ECFF.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset'
+[2022.05.30-01.59.26:924][665]AssetCheck: New page: Asset Save: SK_Mannequin
+[2022.05.30-01.59.26:925][665]LogContentValidation: Display: Validating Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2022.05.30-01.59.59:937][786]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2022.05.30-01.59.59:937][786]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2022.05.30-01.59.59:939][786]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Actor_UAID_2CF05DB1BCB5931401_1731314152
+[2022.05.30-01.59.59:939][786]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Actor_UAID_2CF05DB1BCB5931401_1731314152
+[2022.05.30-02.00.03:387][983]Cmd: TRANSACTION UNDO
+[2022.05.30-02.00.03:388][983]LogEditorTransaction: Undo Create Actor
+[2022.05.30-02.00.03:504][983]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.05.30-02.00.03:615][983]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.05.30-02.00.07:585][199]Cmd: SELECT NONE
+[2022.05.30-02.00.15:927][314]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.05.30-02.00.17:124][314]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.05.30-02.00.17:149][314]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.05.30-02.00.17:155][314]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.05.30-02.00.17:169][315]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.05.30-02.00.19:583][405]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2022.05.30-02.00.19:591][405]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.05.30-02.00.30:540][649]LogContentBrowser: Attempting asset rename: NewBlueprint -> Weapon
+[2022.05.30-02.00.30:589][649]LogMetaData: Removing '/Game/Weapon.Weapon:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2022.05.30-02.00.30:589][649]LogMetaData: Removing '/Game/Weapon.SKEL_Weapon_C:UserConstructionScript' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2022.05.30-02.00.30:589][649]LogMetaData: Removing '/Game/Weapon.SKEL_Weapon_C' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2022.05.30-02.00.30:589][649]LogMetaData: Removing '/Game/Weapon.Weapon_C' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2022.05.30-02.00.30:589][649]LogMetaData: Removing '/Game/Weapon.Weapon:EventGraph.K2Node_Event_0' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2022.05.30-02.00.30:589][649]LogMetaData: Removing '/Game/Weapon.Weapon:EventGraph.K2Node_Event_1' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2022.05.30-02.00.30:589][649]LogMetaData: Removing '/Game/Weapon.Weapon:EventGraph.K2Node_Event_2' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2022.05.30-02.00.30:674][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon" FILE="C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset" SILENT=true
+[2022.05.30-02.00.30:681][649]LogSavePackage: Moving output files for package: /Game/Weapon
+[2022.05.30-02.00.30:681][649]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/Weapon22984613413862F5A8FFBEA2A7642DAD.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset'
+[2022.05.30-02.00.30:788][649]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Actor_UAID_2CF05DB1BCB5931401_1731314152 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/L9/HCCBRQ7XA2G6ZQH7SVYFMK.PackageMetaData in its package
+[2022.05.30-02.00.30:838][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.05.30-02.00.30:926][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.05.30-02.00.30:989][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.05.30-02.00.31:000][649]AssetCheck: New page: Asset Save: Weapon
+[2022.05.30-02.00.31:001][649]LogContentValidation: Display: Validating Blueprint /Game/Weapon.Weapon
+[2022.05.30-02.00.31:072][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.05.30-02.00.31:718][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon" FILE="C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset" SILENT=true
+[2022.05.30-02.00.31:720][682]LogSavePackage: Moving output files for package: /Game/Weapon
+[2022.05.30-02.00.31:721][682]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/Weapon0CAAE73B467F3D994D3C9697BE36AE98.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset'
+[2022.05.30-02.00.31:745][682]AssetCheck: New page: Asset Save: Weapon
+[2022.05.30-02.00.31:745][682]LogContentValidation: Display: Validating Blueprint /Game/Weapon.Weapon
+[2022.05.30-02.00.32:637][735]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Weapon.Weapon
+[2022.05.30-02.00.32:637][735]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.30-02.00.33:092][735]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2022.05.30-02.00.47:871][165]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.05.30-02.00.57:822][476]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.57:822][476]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.57:859][476]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.57:868][476]LogSlate: Took 0.000522 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.30-02.00.57:887][477]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.57:907][478]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.57:923][479]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.57:937][480]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.57:954][481]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.57:969][482]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.57:985][483]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:002][484]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:019][485]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:036][486]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:052][487]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:069][488]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:086][489]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:101][490]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:118][491]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:135][492]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:151][493]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:169][494]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:185][495]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:202][496]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:219][497]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:235][498]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:254][499]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:271][500]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:286][501]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:307][502]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:326][503]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:341][504]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:359][505]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:368][506]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:398][507]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:416][508]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:422][509]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:459][510]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:464][511]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:481][512]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:498][513]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:562][514]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:596][515]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:612][516]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:629][517]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:646][518]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:663][519]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:679][520]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:696][521]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:738][522]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:774][523]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:792][524]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:807][525]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:825][526]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:871][527]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:901][528]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:941][529]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:968][530]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.58:987][531]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:002][532]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:019][533]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:036][534]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:078][535]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:139][536]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:144][537]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:162][538]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:178][539]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:195][540]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:211][541]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:228][542]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:247][543]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:260][544]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:277][545]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:304][546]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:335][547]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:374][548]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:391][549]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:407][550]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:425][551]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:441][552]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:458][553]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:474][554]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:497][555]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:513][556]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:532][557]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:546][558]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:560][559]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:574][560]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:592][561]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:609][562]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:627][563]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:642][564]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:657][565]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:675][566]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:691][567]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:708][568]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:726][569]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:741][570]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:758][571]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:776][572]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:793][573]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:809][574]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:826][575]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:842][576]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:857][577]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:876][578]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:891][579]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:908][580]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:926][581]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:942][582]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.00.59:963][583]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.PBIK.Effectors.1 or RigVMPin /Engine/Transient.1
+[2022.05.30-02.01.22:825][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon" FILE="C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset" SILENT=true
+[2022.05.30-02.01.22:828][203]LogSavePackage: Moving output files for package: /Game/Weapon
+[2022.05.30-02.01.22:829][203]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/WeaponF192C75547A91001641352AA97233231.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset'
+[2022.05.30-02.01.22:853][203]AssetCheck: New page: Asset Save: Weapon
+[2022.05.30-02.01.22:853][203]LogContentValidation: Display: Validating Blueprint /Game/Weapon.Weapon
+[2022.05.30-02.02.03:847][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon" FILE="C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset" SILENT=true
+[2022.05.30-02.02.03:850][693]LogSavePackage: Moving output files for package: /Game/Weapon
+[2022.05.30-02.02.03:851][693]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/WeaponF3AEB36C4B2B5C36EFB948951008F9A7.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset'
+[2022.05.30-02.02.03:875][693]AssetCheck: New page: Asset Save: Weapon
+[2022.05.30-02.02.03:875][693]LogContentValidation: Display: Validating Blueprint /Game/Weapon.Weapon
+[2022.05.30-02.02.12:050][775]BlueprintLog: New page: Compile Weapon
+[2022.05.30-02.02.12:164][775]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.05.30-02.02.23:597][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon" FILE="C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset" SILENT=true
+[2022.05.30-02.02.23:600][179]LogSavePackage: Moving output files for package: /Game/Weapon
+[2022.05.30-02.02.23:600][179]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/Weapon2D88320D484D39E7C58C9BA21E11791E.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset'
+[2022.05.30-02.02.23:625][179]AssetCheck: New page: Asset Save: Weapon
+[2022.05.30-02.02.23:625][179]LogContentValidation: Display: Validating Blueprint /Game/Weapon.Weapon
+[2022.05.30-02.02.54:875][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon" FILE="C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset" SILENT=true
+[2022.05.30-02.02.54:878][ 93]LogSavePackage: Moving output files for package: /Game/Weapon
+[2022.05.30-02.02.54:879][ 93]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/Weapon8C67711E46D6CC6EEC4D2A8B114AE34E.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset'
+[2022.05.30-02.02.54:903][ 93]AssetCheck: New page: Asset Save: Weapon
+[2022.05.30-02.02.54:903][ 93]LogContentValidation: Display: Validating Blueprint /Game/Weapon.Weapon
+[2022.05.30-02.03.44:902][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon" FILE="C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset" SILENT=true
+[2022.05.30-02.03.44:906][428]LogSavePackage: Moving output files for package: /Game/Weapon
+[2022.05.30-02.03.44:907][428]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/WeaponBBA1F6014785C13271E57F83AB90B65A.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset'
+[2022.05.30-02.03.44:933][428]AssetCheck: New page: Asset Save: Weapon
+[2022.05.30-02.03.44:933][428]LogContentValidation: Display: Validating Blueprint /Game/Weapon.Weapon
+[2022.05.30-02.04.05:614][632]LogEditorTransaction: Undo Add Node
+[2022.05.30-02.04.05:708][632]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.05.30-02.04.06:385][653]LogEditorTransaction: Undo Edit Auto Receive Input
+[2022.05.30-02.04.06:471][653]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.05.30-02.04.08:690][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon" FILE="C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset" SILENT=true
+[2022.05.30-02.04.08:693][775]LogSavePackage: Moving output files for package: /Game/Weapon
+[2022.05.30-02.04.08:694][775]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/Weapon53C37C2740C8279E4315889BB7C3CA4E.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset'
+[2022.05.30-02.04.08:729][775]AssetCheck: New page: Asset Save: Weapon
+[2022.05.30-02.04.08:730][775]LogContentValidation: Display: Validating Blueprint /Game/Weapon.Weapon
+[2022.05.30-02.04.12:203][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon" FILE="C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset" SILENT=true
+[2022.05.30-02.04.12:208][955]LogSavePackage: Moving output files for package: /Game/Weapon
+[2022.05.30-02.04.12:209][955]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/Weapon06EF377E4A76580FFA51F7AB0F7D6C0F.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset'
+[2022.05.30-02.04.12:238][955]AssetCheck: New page: Asset Save: Weapon
+[2022.05.30-02.04.12:238][955]LogContentValidation: Display: Validating Blueprint /Game/Weapon.Weapon
+[2022.05.30-02.04.48:868][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon" FILE="C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset" SILENT=true
+[2022.05.30-02.04.48:871][ 60]LogSavePackage: Moving output files for package: /Game/Weapon
+[2022.05.30-02.04.48:873][ 60]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/WeaponCD559F814CD963D16E98BCA1DE347D15.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset'
+[2022.05.30-02.04.48:915][ 60]AssetCheck: New page: Asset Save: Weapon
+[2022.05.30-02.04.48:915][ 60]LogContentValidation: Display: Validating Blueprint /Game/Weapon.Weapon
+[2022.05.30-02.05.18:427][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon" FILE="C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset" SILENT=true
+[2022.05.30-02.05.18:431][785]LogSavePackage: Moving output files for package: /Game/Weapon
+[2022.05.30-02.05.18:432][785]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/Weapon60372C294222CA9E21F39BA6DBF06354.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset'
+[2022.05.30-02.05.18:468][785]AssetCheck: New page: Asset Save: Weapon
+[2022.05.30-02.05.18:468][785]LogContentValidation: Display: Validating Blueprint /Game/Weapon.Weapon
+[2022.05.30-02.05.45:801][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon" FILE="C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset" SILENT=true
+[2022.05.30-02.05.45:805][791]LogSavePackage: Moving output files for package: /Game/Weapon
+[2022.05.30-02.05.45:806][791]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/Weapon52EA38F1490D2EE7FA8078AF429F3ADE.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset'
+[2022.05.30-02.05.45:831][791]AssetCheck: New page: Asset Save: Weapon
+[2022.05.30-02.05.45:831][791]LogContentValidation: Display: Validating Blueprint /Game/Weapon.Weapon
+[2022.05.30-02.06.08:392][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon" FILE="C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset" SILENT=true
+[2022.05.30-02.06.08:396][374]LogSavePackage: Moving output files for package: /Game/Weapon
+[2022.05.30-02.06.08:397][374]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/Weapon603A286347F2893C28D69F8B9879068F.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset'
+[2022.05.30-02.06.08:423][374]AssetCheck: New page: Asset Save: Weapon
+[2022.05.30-02.06.08:424][374]LogContentValidation: Display: Validating Blueprint /Game/Weapon.Weapon
+[2022.05.30-02.07.01:077][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon" FILE="C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset" SILENT=true
+[2022.05.30-02.07.01:084][712]LogSavePackage: Moving output files for package: /Game/Weapon
+[2022.05.30-02.07.01:085][712]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/Weapon7DBB046E423AFF2143B461AB5A3D12A2.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset'
+[2022.05.30-02.07.01:127][712]AssetCheck: New page: Asset Save: Weapon
+[2022.05.30-02.07.01:127][712]LogContentValidation: Display: Validating Blueprint /Game/Weapon.Weapon
+[2022.05.30-02.07.06:833][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon" FILE="C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset" SILENT=true
+[2022.05.30-02.07.06:837][ 31]LogSavePackage: Moving output files for package: /Game/Weapon
+[2022.05.30-02.07.06:837][ 31]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/WeaponEC32B1CD4F60C9C7CB5C5EB5E2E67AA7.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset'
+[2022.05.30-02.07.06:889][ 31]AssetCheck: New page: Asset Save: Weapon
+[2022.05.30-02.07.06:889][ 31]LogContentValidation: Display: Validating Blueprint /Game/Weapon.Weapon
+[2022.05.30-02.07.07:429][ 57]BlueprintLog: New page: Compile Weapon
+[2022.05.30-02.07.07:538][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.05.30-02.08.23:201][979]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.05.30-02.08.37:723][364]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.05.30-02.09.02:572][332]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.05.30-02.09.02:573][332]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/BP_ThirdPersonCharacter09EC823443A497C71A982A9E345F8B16.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.05.30-02.09.02:601][332]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.05.30-02.09.02:601][332]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.05.30-02.09.24:578][699]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.05.30-02.09.24:578][699]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/BP_ThirdPersonCharacterB6655E964B2FC6E9E8DD9A9E3C3ACAD6.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.05.30-02.09.24:610][699]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.05.30-02.09.24:610][699]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.05.30-02.10.01:935][902]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.05.30-02.10.01:936][902]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/BP_ThirdPersonCharacterF96C340141B50E12F46D8E88ECC613A5.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.05.30-02.10.01:970][902]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.05.30-02.10.01:970][902]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.05.30-02.10.05:881][118]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.05.30-02.10.05:882][118]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/BP_ThirdPersonCharacter89A8FE2A4521804CAD3BE4B89259816B.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.05.30-02.10.05:908][118]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.05.30-02.10.05:908][118]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.05.30-02.10.49:508][ 44]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.05.30-02.10.49:510][ 44]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/BP_ThirdPersonCharacter87DC51DA44FF6E5CEACAD1B980899868.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.05.30-02.10.49:536][ 44]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.05.30-02.10.49:536][ 44]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.05.30-02.11.36:841][341]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.05.30-02.11.36:842][341]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/BP_ThirdPersonCharacterB2F89D0D4708545D1337B48A8C0F9DD8.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.05.30-02.11.36:873][341]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.05.30-02.11.36:873][341]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.05.30-02.11.52:858][884]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.05.30-02.11.52:859][884]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/BP_ThirdPersonCharacter81546D9A46A848495E4A08A04F7524DA.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.05.30-02.11.52:887][884]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.05.30-02.11.52:888][884]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.05.30-02.11.55:229][ 13]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.05.30-02.11.55:230][ 13]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/BP_ThirdPersonCharacterDF4A77DF406BE4E4F5EDA9A2BEEF8953.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.05.30-02.11.55:256][ 13]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.05.30-02.11.55:256][ 13]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.05.30-02.13.11:012][684]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.05.30-02.13.11:013][684]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/BP_ThirdPersonCharacterE95772344D9D9EBAF1B185BAE40AC63E.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.05.30-02.13.11:046][684]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.05.30-02.13.11:046][684]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.05.30-02.13.29:866][356]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.05.30-02.13.29:866][356]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/BP_ThirdPersonCharacterCACE0C3B48784A490259ABB436F3AAD1.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.05.30-02.13.29:894][356]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.05.30-02.13.29:894][356]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.05.30-02.13.46:492][542]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2022.05.30-02.13.46:679][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.05.30-02.13.48:442][627]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.05.30-02.13.48:443][627]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/BP_ThirdPersonCharacter8112F49C4D68AA34B9FDABB0316B4B8F.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.05.30-02.13.48:469][627]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.05.30-02.13.48:470][627]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.05.30-02.14.27:718][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon" FILE="C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset" SILENT=true
+[2022.05.30-02.14.27:724][788]LogSavePackage: Moving output files for package: /Game/Weapon
+[2022.05.30-02.14.27:725][788]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/Weapon17E7F8044EF2801684BEFFA2126867FE.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset'
+[2022.05.30-02.14.27:754][788]AssetCheck: New page: Asset Save: Weapon
+[2022.05.30-02.14.27:754][788]LogContentValidation: Display: Validating Blueprint /Game/Weapon.Weapon
+[2022.05.30-02.15.52:790][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon" FILE="C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset" SILENT=true
+[2022.05.30-02.15.52:795][230]LogSavePackage: Moving output files for package: /Game/Weapon
+[2022.05.30-02.15.52:796][230]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/Weapon2BF6594643DD386634371E847193E182.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset'
+[2022.05.30-02.15.52:820][230]AssetCheck: New page: Asset Save: Weapon
+[2022.05.30-02.15.52:820][230]LogContentValidation: Display: Validating Blueprint /Game/Weapon.Weapon
+[2022.05.30-02.16.06:079][403]BlueprintLog: New page: Compile Weapon
+[2022.05.30-02.16.06:188][403]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.05.30-02.16.24:954][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon" FILE="C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset" SILENT=true
+[2022.05.30-02.16.24:960][361]LogSavePackage: Moving output files for package: /Game/Weapon
+[2022.05.30-02.16.24:961][361]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/Weapon79EC790E4DD6D3297226AB9030A387B0.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset'
+[2022.05.30-02.16.24:988][361]AssetCheck: New page: Asset Save: Weapon
+[2022.05.30-02.16.24:988][361]LogContentValidation: Display: Validating Blueprint /Game/Weapon.Weapon
+[2022.05.30-02.17.12:529][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon" FILE="C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset" SILENT=true
+[2022.05.30-02.17.12:535][610]LogSavePackage: Moving output files for package: /Game/Weapon
+[2022.05.30-02.17.12:536][610]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/Weapon38A8F0054062E23C0B906492BBC0AA6C.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset'
+[2022.05.30-02.17.12:563][610]AssetCheck: New page: Asset Save: Weapon
+[2022.05.30-02.17.12:563][610]LogContentValidation: Display: Validating Blueprint /Game/Weapon.Weapon
+[2022.05.30-02.17.28:037][844]BlueprintLog: New page: Compile Weapon
+[2022.05.30-02.17.28:141][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.05.30-02.17.29:126][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon" FILE="C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset" SILENT=true
+[2022.05.30-02.17.29:137][888]LogSavePackage: Moving output files for package: /Game/Weapon
+[2022.05.30-02.17.29:138][888]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/Weapon6911172E4775652AE04C31BD320300A0.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset'
+[2022.05.30-02.17.29:181][888]AssetCheck: New page: Asset Save: Weapon
+[2022.05.30-02.17.29:181][888]LogContentValidation: Display: Validating Blueprint /Game/Weapon.Weapon
+[2022.05.30-02.17.31:214][  2]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.30-02.17.31:225][  2]LogWorldPartition: Display: GenerateStreaming started...
+[2022.05.30-02.17.31:225][  2]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.05.30-02.17.31:225][  2]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.05.30-02.17.31:225][  2]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.05.30-02.17.31:225][  2]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.05.30-02.17.31:225][  2]LogWorldPartition: Display: GetPartitionedActors took 74 us
+[2022.05.30-02.17.31:226][  2]LogWorldPartition: Display: GenerateStreaming took 450 us
+[2022.05.30-02.17.31:226][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.30-02.17.31:226][  2]PIE: New page: PIE session: ThirdPersonMap (May 29, 2022, 6:17:31 PM)
+[2022.05.30-02.17.31:226][  2]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.05.30-02.17.31:234][  2]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.05.30-02.17.31:234][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007895s)
+[2022.05.30-02.17.31:234][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.007948s)
+[2022.05.30-02.17.31:234][  2]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.30-02.17.31:235][  2]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.05.30-02.17.31:237][  2]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.05.30-02.17.31:237][  2]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.05.30-02.17.31:238][  2]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.05.30-02.17.31:238][  2]LogPlayLevel: PIE: World Init took: (0.003912s)
+[2022.05.30-02.17.31:310][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.05.30-02.17.31:312][  2]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.05.30-02.17.31:312][  2]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.30-02.17.31:312][  2]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.30-02.17.31:312][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.30-02.17.31:312][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.30-02.17.31:312][  2]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.30-02.17.31:312][  2]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.30-02.17.31:312][  2]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.30-02.17.31:312][  2]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.30-02.17.31:313][  2]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.30-02.17.31:313][  2]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.30-02.17.31:313][  2]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.30-02.17.31:315][  2]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.30-02.17.31:349][  2]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.05.30-02.17.31:351][  2]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.30-02.17.31:351][  2]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.30-02.17.31:351][  2]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.30-02.17.31:351][  2]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.05.30-02.17.31:351][  2]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.05.30-02.17.31:354][  2]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.05.30-02.17.31:354][  2]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.05.30-02.17.31:354][  2]LogInit: FAudioDevice initialized.
+[2022.05.30-02.17.31:354][  2]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2022.05.30-02.17.31:364][  2]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.05.30-02.17.31:396][  2]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2022.05.29-22.17.31
+[2022.05.30-02.17.31:398][  2]LogWorld: Bringing up level for play took: 0.033697
+[2022.05.30-02.17.31:399][  2]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2022.05.30-02.17.31:404][  2]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.05.30-02.17.31:404][  2]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.05.30-02.17.31:404][  2]PIE: Server logged in
+[2022.05.30-02.17.31:405][  2]PIE: Play in editor total start time 0.183 seconds.
+[2022.05.30-02.17.44:028][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.30-02.17.44:028][743]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.05.30-02.17.44:029][743]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.30-02.17.44:029][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-02.17.44:041][743]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.30-02.17.44:047][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-02.17.44:117][743]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.30-02.17.44:117][743]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.05.30-02.17.44:120][743]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.05.30-02.17.44:135][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.30-02.17.44:140][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.05.30-02.17.44:159][744]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.05.30-02.18.05:294][929]LogEditorTransaction: Undo Create Pin Link
+[2022.05.30-02.18.05:390][929]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.05.30-02.18.33:333][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon" FILE="C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset" SILENT=true
+[2022.05.30-02.18.33:339][427]LogSavePackage: Moving output files for package: /Game/Weapon
+[2022.05.30-02.18.33:340][427]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/Weapon64B722494F54AC49F17F5386F68425D1.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Weapon.uasset'
+[2022.05.30-02.18.33:366][427]AssetCheck: New page: Asset Save: Weapon
+[2022.05.30-02.18.33:366][427]LogContentValidation: Display: Validating Blueprint /Game/Weapon.Weapon
+[2022.05.30-02.18.34:577][496]BlueprintLog: New page: Compile Weapon
+[2022.05.30-02.18.34:677][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.05.30-02.18.37:662][647]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.30-02.18.37:670][647]LogWorldPartition: Display: GenerateStreaming started...
+[2022.05.30-02.18.37:670][647]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.05.30-02.18.37:670][647]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.05.30-02.18.37:670][647]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.05.30-02.18.37:670][647]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.05.30-02.18.37:670][647]LogWorldPartition: Display: GetPartitionedActors took 45 us
+[2022.05.30-02.18.37:670][647]LogWorldPartition: Display: GenerateStreaming took 278 us
+[2022.05.30-02.18.37:670][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.30-02.18.37:671][647]PIE: New page: PIE session: ThirdPersonMap (May 29, 2022, 6:18:37 PM)
+[2022.05.30-02.18.37:671][647]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.05.30-02.18.37:677][647]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.05.30-02.18.37:677][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006710s)
+[2022.05.30-02.18.37:677][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006760s)
+[2022.05.30-02.18.37:677][647]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.30-02.18.37:678][647]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.05.30-02.18.37:678][647]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.05.30-02.18.37:678][647]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.05.30-02.18.37:679][647]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.05.30-02.18.37:679][647]LogPlayLevel: PIE: World Init took: (0.002125s)
+[2022.05.30-02.18.37:748][647]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.05.30-02.18.37:749][647]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.05.30-02.18.37:750][647]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.30-02.18.37:750][647]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.30-02.18.37:750][647]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.30-02.18.37:750][647]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.30-02.18.37:750][647]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.30-02.18.37:750][647]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.30-02.18.37:750][647]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.30-02.18.37:750][647]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.30-02.18.37:750][647]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.30-02.18.37:751][647]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.30-02.18.37:751][647]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.30-02.18.37:753][647]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.30-02.18.37:787][647]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.05.30-02.18.37:787][647]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.30-02.18.37:787][647]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.30-02.18.37:787][647]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.30-02.18.37:788][647]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.05.30-02.18.37:788][647]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.05.30-02.18.37:790][647]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.05.30-02.18.37:790][647]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.05.30-02.18.37:790][647]LogInit: FAudioDevice initialized.
+[2022.05.30-02.18.37:790][647]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2022.05.30-02.18.37:801][647]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.05.30-02.18.37:818][647]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2022.05.29-22.18.37
+[2022.05.30-02.18.37:819][647]LogWorld: Bringing up level for play took: 0.017750
+[2022.05.30-02.18.37:821][647]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2022.05.30-02.18.37:826][647]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.05.30-02.18.37:826][647]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.05.30-02.18.37:827][647]PIE: Server logged in
+[2022.05.30-02.18.37:827][647]PIE: Play in editor total start time 0.159 seconds.
+[2022.05.30-02.18.47:439][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.30-02.18.47:439][213]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.05.30-02.18.47:440][213]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.30-02.18.47:440][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-02.18.47:449][213]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.30-02.18.47:455][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-02.18.47:521][213]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.30-02.18.47:522][213]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.05.30-02.18.47:524][213]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.05.30-02.18.47:538][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.30-02.18.47:543][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.05.30-02.18.47:587][214]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.05.30-02.19.50:190][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.05.30-02.19.50:196][ 80]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IY/NE0JUKJISDIJWF6OO001X6_Auto1
+[2022.05.30-02.19.50:196][ 80]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/NE0JUKJISDIJWF6OO001X6_Auto1A5C96940468EB3D764261FBF16AD704C.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IY/NE0JUKJISDIJWF6OO001X6_Auto1.uasset'
+[2022.05.30-02.19.50:200][ 80]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/SR/H5EWFHD7951ACMX8IRD8YD_Auto1
+[2022.05.30-02.19.50:200][ 80]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/H5EWFHD7951ACMX8IRD8YD_Auto1EC7533874F49170AEEAF3A932F444F2A.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/SR/H5EWFHD7951ACMX8IRD8YD_Auto1.uasset'
+[2022.05.30-02.19.50:204][ 80]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/A4/UJQV02WM4DYGQ3Z0L2Z06G_Auto1
+[2022.05.30-02.19.50:205][ 80]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/UJQV02WM4DYGQ3Z0L2Z06G_Auto1053695F045BEB5DD39BFE989198AA6E3.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/A4/UJQV02WM4DYGQ3Z0L2Z06G_Auto1.uasset'
+[2022.05.30-02.19.50:209][ 80]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/UI/9ZVJNJVQ9MTXTZLT54N2I6_Auto1
+[2022.05.30-02.19.50:210][ 80]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/9ZVJNJVQ9MTXTZLT54N2I6_Auto104C86481469009D350ED82AE4C08750A.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/UI/9ZVJNJVQ9MTXTZLT54N2I6_Auto1.uasset'
+[2022.05.30-02.19.50:214][ 80]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/OX/U3GAH7NNHOX7R1CEGYZZYL_Auto1
+[2022.05.30-02.19.50:214][ 80]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/U3GAH7NNHOX7R1CEGYZZYL_Auto1E4BDCAD841193EE0AF1889904C7A5F35.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/OX/U3GAH7NNHOX7R1CEGYZZYL_Auto1.uasset'
+[2022.05.30-02.19.50:216][ 80]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.100
+[2022.05.30-02.19.50:216][ 80]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.100
+[2022.05.30-02.21.37:359][767]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.05.30-02.21.37:360][767]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/BP_ThirdPersonCharacterC70E202C4A2C4169F383618A3FF8212A.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.05.30-02.21.37:389][767]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.05.30-02.21.37:389][767]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.05.30-02.21.40:592][942]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.30-02.21.40:600][942]LogWorldPartition: Display: GenerateStreaming started...
+[2022.05.30-02.21.40:600][942]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.05.30-02.21.40:600][942]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.05.30-02.21.40:600][942]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.05.30-02.21.40:600][942]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.05.30-02.21.40:600][942]LogWorldPartition: Display: GetPartitionedActors took 64 us
+[2022.05.30-02.21.40:600][942]LogWorldPartition: Display: GenerateStreaming took 351 us
+[2022.05.30-02.21.40:601][942]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.30-02.21.40:601][942]PIE: New page: PIE session: ThirdPersonMap (May 29, 2022, 6:21:40 PM)
+[2022.05.30-02.21.40:601][942]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.05.30-02.21.40:609][942]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.05.30-02.21.40:609][942]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008532s)
+[2022.05.30-02.21.40:610][942]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.008585s)
+[2022.05.30-02.21.40:610][942]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.30-02.21.40:610][942]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.05.30-02.21.40:611][942]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.05.30-02.21.40:611][942]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.05.30-02.21.40:613][942]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2022.05.30-02.21.40:613][942]LogPlayLevel: PIE: World Init took: (0.003527s)
+[2022.05.30-02.21.40:676][942]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.05.30-02.21.40:679][942]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.05.30-02.21.40:679][942]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.30-02.21.40:679][942]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.30-02.21.40:679][942]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.30-02.21.40:679][942]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.30-02.21.40:679][942]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.30-02.21.40:679][942]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.30-02.21.40:679][942]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.30-02.21.40:679][942]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.30-02.21.40:680][942]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.30-02.21.40:680][942]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.30-02.21.40:680][942]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.30-02.21.40:682][942]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.30-02.21.40:717][942]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.05.30-02.21.40:717][942]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.30-02.21.40:717][942]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.30-02.21.40:717][942]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.30-02.21.40:718][942]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.05.30-02.21.40:718][942]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.05.30-02.21.40:719][942]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.05.30-02.21.40:719][942]LogInit: FAudioDevice initialized.
+[2022.05.30-02.21.40:719][942]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.05.30-02.21.40:719][942]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2022.05.30-02.21.40:734][942]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.05.30-02.21.40:752][942]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2022.05.29-22.21.40
+[2022.05.30-02.21.40:754][942]LogWorld: Bringing up level for play took: 0.019768
+[2022.05.30-02.21.40:755][942]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2022.05.30-02.21.40:760][942]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.05.30-02.21.40:760][942]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.05.30-02.21.40:760][942]PIE: Server logged in
+[2022.05.30-02.21.40:761][942]PIE: Play in editor total start time 0.162 seconds.
+[2022.05.30-02.21.46:419][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.30-02.21.46:419][271]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.05.30-02.21.46:419][271]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.30-02.21.46:419][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-02.21.46:428][271]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.30-02.21.46:434][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-02.21.46:502][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.30-02.21.46:503][271]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.05.30-02.21.46:505][271]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.05.30-02.21.46:517][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.05.30-02.21.46:559][272]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.05.30-02.21.48:628][391]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.05.30-02.21.59:049][989]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SK_Mannequin
+[2022.05.30-02.21.59:050][989]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/SK_Mannequin70C45D2A4C371C711CDDBDB8BD0747CC.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset'
+[2022.05.30-02.21.59:074][989]AssetCheck: New page: Asset Save: SK_Mannequin
+[2022.05.30-02.21.59:074][989]LogContentValidation: Display: Validating Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2022.05.30-02.24.22:680][ 12]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.05.30-02.24.23:127][ 39]Cmd: DELETE
+[2022.05.30-02.24.23:127][ 39]Cmd: ACTOR DELETE
+[2022.05.30-02.24.23:139][ 39]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2022.05.30-02.24.23:212][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.05.30-02.24.23:214][ 39]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2022.05.30-02.24.24:028][ 78]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Weapon.Weapon_C
+[2022.05.30-02.24.24:028][ 78]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Weapon.Weapon_C
+[2022.05.30-02.24.24:029][ 78]LogActorFactory: Actor Factory spawned Blueprint /Game/Weapon.Weapon as actor: Weapon_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Weapon_C_0
+[2022.05.30-02.24.24:030][ 78]LogActorFactory: Actor Factory spawned Blueprint /Game/Weapon.Weapon as actor: Weapon_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Weapon_C_0
+[2022.05.30-02.24.24:734][103]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Weapon.Weapon_C
+[2022.05.30-02.24.24:734][103]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Weapon.Weapon_C
+[2022.05.30-02.24.24:737][103]LogActorFactory: Actor Factory spawned Blueprint /Game/Weapon.Weapon as actor: Weapon_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Weapon_C_UAID_2CF05DB1BCB5941401_2122369329
+[2022.05.30-02.24.24:739][103]LogActorFactory: Actor Factory spawned Blueprint /Game/Weapon.Weapon as actor: Weapon_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Weapon_C_UAID_2CF05DB1BCB5941401_2122369329
+[2022.05.30-02.24.26:363][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.05.30-02.24.26:435][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.05.30-02.24.26:504][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.05.30-02.24.26:509][186]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IY/NE0JUKJISDIJWF6OO001X6
+[2022.05.30-02.24.26:510][186]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/NE0JUKJISDIJWF6OO001X6AC66732343523FDA94B0389C45BD0303.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IY/NE0JUKJISDIJWF6OO001X6.uasset'
+[2022.05.30-02.24.26:513][186]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/SR/H5EWFHD7951ACMX8IRD8YD
+[2022.05.30-02.24.26:514][186]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/H5EWFHD7951ACMX8IRD8YDAC687E2A41F6A95B54AA45977D26B1AB.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/SR/H5EWFHD7951ACMX8IRD8YD.uasset'
+[2022.05.30-02.24.26:517][186]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/A4/UJQV02WM4DYGQ3Z0L2Z06G
+[2022.05.30-02.24.26:518][186]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/UJQV02WM4DYGQ3Z0L2Z06GED93FAF34A69E923975A48BD9700D0F1.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/A4/UJQV02WM4DYGQ3Z0L2Z06G.uasset'
+[2022.05.30-02.24.26:521][186]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/UI/9ZVJNJVQ9MTXTZLT54N2I6
+[2022.05.30-02.24.26:523][186]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/9ZVJNJVQ9MTXTZLT54N2I61E3030AA4D48C484382A9B9FD9DEB256.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/UI/9ZVJNJVQ9MTXTZLT54N2I6.uasset'
+[2022.05.30-02.24.26:528][186]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/OX/U3GAH7NNHOX7R1CEGYZZYL
+[2022.05.30-02.24.26:529][186]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/U3GAH7NNHOX7R1CEGYZZYLD64031B248F87027C2F409A559586BA2.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/OX/U3GAH7NNHOX7R1CEGYZZYL.uasset'
+[2022.05.30-02.24.26:532][186]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/TO/UJQQCVWTISWHRN78SGO2F6
+[2022.05.30-02.24.26:532][186]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/UJQQCVWTISWHRN78SGO2F6CACAFBF64EAA8F0C23B14EA5B0A3C0BB.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/TO/UJQQCVWTISWHRN78SGO2F6.uasset'
+[2022.05.30-02.24.26:562][186]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.30-02.24.26:562][186]LogContentValidation: Display: Validating AIBrain_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.AIBrain_C_UAID_2CF05DB1BCB5401401_2006994543
+[2022.05.30-02.24.26:562][186]LogContentValidation: Display: Validating AIBrain_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.AIBrain_C_UAID_2CF05DB1BCB5401401_2069965546
+[2022.05.30-02.24.26:562][186]LogContentValidation: Display: Validating AIBrain_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.AIBrain_C_UAID_94E70B075C14ED1201_1700829884
+[2022.05.30-02.24.26:562][186]LogContentValidation: Display: Validating AIBrain_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.AIBrain_C_UAID_2CF05DB1BCB5401401_2041841545
+[2022.05.30-02.24.26:562][186]LogContentValidation: Display: Validating AIEnemy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.AIEnemy_C_UAID_2CF05DB1BCB58C1401_2010785919
+[2022.05.30-02.24.26:562][186]LogContentValidation: Display: Validating Weapon_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Weapon_C_UAID_2CF05DB1BCB5941401_2122369329
+[2022.05.30-02.24.28:092][262]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.30-02.24.28:100][262]LogWorldPartition: Display: GenerateStreaming started...
+[2022.05.30-02.24.28:100][262]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.05.30-02.24.28:100][262]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.05.30-02.24.28:100][262]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.05.30-02.24.28:100][262]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.05.30-02.24.28:100][262]LogWorldPartition: Display: GetPartitionedActors took 63 us
+[2022.05.30-02.24.28:100][262]LogWorldPartition: Display: GenerateStreaming took 383 us
+[2022.05.30-02.24.28:105][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.30-02.24.28:105][262]PIE: New page: PIE session: ThirdPersonMap (May 29, 2022, 6:24:28 PM)
+[2022.05.30-02.24.28:105][262]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.05.30-02.24.28:114][262]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.05.30-02.24.28:114][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008792s)
+[2022.05.30-02.24.28:114][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.008849s)
+[2022.05.30-02.24.28:114][262]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.30-02.24.28:114][262]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.05.30-02.24.28:115][262]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.05.30-02.24.28:115][262]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.05.30-02.24.28:116][262]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.05.30-02.24.28:116][262]LogPlayLevel: PIE: World Init took: (0.002155s)
+[2022.05.30-02.24.28:180][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.05.30-02.24.28:183][262]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.05.30-02.24.28:183][262]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.30-02.24.28:183][262]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.30-02.24.28:183][262]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.30-02.24.28:183][262]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.30-02.24.28:183][262]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.30-02.24.28:183][262]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.30-02.24.28:183][262]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.30-02.24.28:183][262]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.30-02.24.28:184][262]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.30-02.24.28:184][262]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.30-02.24.28:184][262]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.30-02.24.28:186][262]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.30-02.24.28:220][262]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.05.30-02.24.28:220][262]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.30-02.24.28:220][262]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.30-02.24.28:220][262]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.30-02.24.28:221][262]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.05.30-02.24.28:221][262]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.05.30-02.24.28:222][262]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.05.30-02.24.28:222][262]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.05.30-02.24.28:222][262]LogInit: FAudioDevice initialized.
+[2022.05.30-02.24.28:222][262]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2022.05.30-02.24.28:231][262]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.05.30-02.24.28:251][262]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2022.05.29-22.24.28
+[2022.05.30-02.24.28:252][262]LogWorld: Bringing up level for play took: 0.020886
+[2022.05.30-02.24.28:254][262]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2022.05.30-02.24.28:258][262]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.05.30-02.24.28:258][262]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.05.30-02.24.28:259][262]PIE: Server logged in
+[2022.05.30-02.24.28:260][262]PIE: Play in editor total start time 0.162 seconds.
+[2022.05.30-02.24.30:664][400]LogScript: Warning: Infinite script recursion (120 calls) detected - see log for stack trace
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:SpawnWeapon:0000
+[2022.05.30-02.24.30:664][400]PIE: Error: Infinite loop detected. Blueprint:  BP_ThirdPersonCharacter Function:  Spawn Weapon Call Stack:  Show
+[2022.05.30-02.24.30:698][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.30-02.24.30:698][400]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.05.30-02.24.30:698][400]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.30-02.24.30:699][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-02.24.30:712][400]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.30-02.24.30:718][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-02.24.30:783][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.30-02.24.30:784][400]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.05.30-02.24.30:786][400]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.05.30-02.24.30:808][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.05.30-02.24.31:026][401]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.05.30-02.24.40:589][957]LogSlate: Window 'Message Log' being destroyed
+[2022.05.30-02.24.40:608][957]LogSlate: Window 'Message Log' being destroyed
+[2022.05.30-02.24.44:391][165]Cmd: SELECT NONE
