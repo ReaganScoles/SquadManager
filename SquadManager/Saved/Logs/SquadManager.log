@@ -4979,3 +4979,207 @@ Script Stack (0 frames):
 [2022.05.30-01.01.20:066][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
 [2022.05.30-01.01.20:131][120]LogPlayLevel: Display: Destroying online subsystem :Context_56
 [2022.05.30-01.01.20:171][120]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.05.30-01.02.32:704][871]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Quinn_Simple) ...
+[2022.05.30-01.02.45:056][509]LogContentBrowser: Deferred new asset file creation: MI_Quinn_01_Inst
+[2022.05.30-01.02.45:070][509]LogContentBrowser: Creating deferred item: MI_Quinn_01_Inst
+[2022.05.30-01.02.45:083][510]LogContentBrowser: Renaming the item being created (Deferred Item: MI_Quinn_01_Inst).
+[2022.05.30-01.02.48:142][692]LogContentBrowser: Attempting asset rename: MI_Quinn_01_Inst -> MI_Quinn_01_InstPlayer
+[2022.05.30-01.02.48:144][692]LogContentBrowser: End creating deferred item MI_Quinn_01_Inst
+[2022.05.30-01.02.51:237][835]LogContentBrowser: Deferred new asset file creation: MI_Quinn_02_Inst
+[2022.05.30-01.02.51:249][835]LogContentBrowser: Creating deferred item: MI_Quinn_02_Inst
+[2022.05.30-01.02.51:262][836]LogContentBrowser: Renaming the item being created (Deferred Item: MI_Quinn_02_Inst).
+[2022.05.30-01.02.53:566][974]LogContentBrowser: Attempting asset rename: MI_Quinn_02_Inst -> MI_Quinn_02_InstPlayer
+[2022.05.30-01.02.53:567][974]LogContentBrowser: End creating deferred item MI_Quinn_02_Inst
+[2022.05.30-01.02.54:645][ 32]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_InstPlayer
+[2022.05.30-01.02.54:645][ 32]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/MI_Quinn_02_InstPlayerD8E9D3A443ACE31A8DC98C80153C5D76.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_InstPlayer.uasset'
+[2022.05.30-01.02.54:673][ 32]AssetCheck: New page: Asset Save: MI_Quinn_02_InstPlayer
+[2022.05.30-01.02.54:673][ 32]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_InstPlayer.MI_Quinn_02_InstPlayer
+[2022.05.30-01.02.55:643][ 83]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_InstPlayer.MI_Quinn_01_InstPlayer
+[2022.05.30-01.02.55:658][ 83]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.30-01.03.02:434][432]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_InstPlayer.MI_Quinn_02_InstPlayer
+[2022.05.30-01.03.02:436][432]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.30-01.03.07:442][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.05.30-01.03.07:508][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.05.30-01.03.07:511][668]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_InstPlayer
+[2022.05.30-01.03.07:511][668]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/MI_Quinn_01_InstPlayer59F1320D4574C5E7EE08278D25272AF0.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_InstPlayer.uasset'
+[2022.05.30-01.03.07:543][668]AssetCheck: New page: Asset Save: MI_Quinn_01_InstPlayer
+[2022.05.30-01.03.07:543][668]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_InstPlayer.MI_Quinn_01_InstPlayer
+[2022.05.30-01.03.13:224][970]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01_InstPlayer.MI_Manny_01_InstPlayer
+[2022.05.30-01.03.13:228][970]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.30-01.03.32:263][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.05.30-01.03.32:327][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.05.30-01.03.32:330][  6]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_InstPlayer
+[2022.05.30-01.03.32:331][  6]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/MI_Quinn_02_InstPlayerDEAB12854906F44DEBB9E8907D00AE57.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_InstPlayer.uasset'
+[2022.05.30-01.03.32:372][  6]AssetCheck: New page: Asset Save: MI_Quinn_02_InstPlayer
+[2022.05.30-01.03.32:372][  6]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_InstPlayer.MI_Quinn_02_InstPlayer
+[2022.05.30-01.03.46:235][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.05.30-01.03.46:298][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.05.30-01.03.46:301][759]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_InstPlayer
+[2022.05.30-01.03.46:302][759]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/MI_Quinn_01_InstPlayer34B2F2D1446A47CE3E9092ADDBA962CA.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_InstPlayer.uasset'
+[2022.05.30-01.03.46:329][759]AssetCheck: New page: Asset Save: MI_Quinn_01_InstPlayer
+[2022.05.30-01.03.46:329][759]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_InstPlayer.MI_Quinn_01_InstPlayer
+[2022.05.30-01.03.49:875][961]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.05.30-01.03.49:875][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-01.03.51:552][ 55]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.05.30-01.03.51:552][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-01.03.52:685][117]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.05.30-01.03.52:685][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-01.03.57:831][389]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01_InstSquad.MI_Manny_01_InstSquad
+[2022.05.30-01.03.57:833][389]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.30-01.04.10:941][ 38]LogContentBrowser: Deferred new asset file creation: MI_Quinn_01_InstPlayer_Inst
+[2022.05.30-01.04.10:959][ 38]LogContentBrowser: Creating deferred item: MI_Quinn_01_InstPlayer_Inst
+[2022.05.30-01.04.10:981][ 39]LogContentBrowser: Renaming the item being created (Deferred Item: MI_Quinn_01_InstPlayer_Inst).
+[2022.05.30-01.04.15:524][309]LogContentBrowser: Attempting asset rename: MI_Quinn_01_InstPlayer_Inst -> MI_Quinn_01_InstPlayer_Inst
+[2022.05.30-01.04.15:524][309]LogContentBrowser: End creating deferred item MI_Quinn_01_InstPlayer_Inst
+[2022.05.30-01.04.18:474][446]LogContentBrowser: Deferred new asset file creation: MI_Quinn_01_Inst
+[2022.05.30-01.04.18:491][446]LogContentBrowser: Creating deferred item: MI_Quinn_01_Inst
+[2022.05.30-01.04.18:505][447]LogContentBrowser: Renaming the item being created (Deferred Item: MI_Quinn_01_Inst).
+[2022.05.30-01.04.20:569][570]LogContentBrowser: Attempting asset rename: MI_Quinn_01_Inst -> MI_Quinn_01_InstSquad
+[2022.05.30-01.04.20:569][570]LogContentBrowser: End creating deferred item MI_Quinn_01_Inst
+[2022.05.30-01.04.23:698][725]LogContentBrowser: Deferred new asset file creation: MI_Quinn_02_Inst
+[2022.05.30-01.04.23:713][725]LogContentBrowser: Creating deferred item: MI_Quinn_02_Inst
+[2022.05.30-01.04.23:727][726]LogContentBrowser: Renaming the item being created (Deferred Item: MI_Quinn_02_Inst).
+[2022.05.30-01.04.25:150][811]LogContentBrowser: Attempting asset rename: MI_Quinn_02_Inst -> MI_Quinn_02_InstSquad
+[2022.05.30-01.04.25:153][811]LogContentBrowser: End creating deferred item MI_Quinn_02_Inst
+[2022.05.30-01.04.26:975][910]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_InstSquad.MI_Quinn_01_InstSquad
+[2022.05.30-01.04.26:976][910]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.30-01.04.32:704][185]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/OX/U3GAH7NNHOX7R1CEGYZZYL
+[2022.05.30-01.04.32:716][185]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/U3GAH7NNHOX7R1CEGYZZYL484980EF49EB34BC58ED48A3491A4DB9.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/OX/U3GAH7NNHOX7R1CEGYZZYL.uasset'
+[2022.05.30-01.04.32:719][185]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/UI/9ZVJNJVQ9MTXTZLT54N2I6
+[2022.05.30-01.04.32:719][185]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/9ZVJNJVQ9MTXTZLT54N2I694A3217C4B113D2D2CDB9FBEFC929CD1.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/UI/9ZVJNJVQ9MTXTZLT54N2I6.uasset'
+[2022.05.30-01.04.32:722][185]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IY/NE0JUKJISDIJWF6OO001X6
+[2022.05.30-01.04.32:723][185]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/NE0JUKJISDIJWF6OO001X66D3F5FA34B4658F9C23DC7BD065FD90F.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IY/NE0JUKJISDIJWF6OO001X6.uasset'
+[2022.05.30-01.04.32:728][185]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/SR/H5EWFHD7951ACMX8IRD8YD
+[2022.05.30-01.04.32:728][185]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/H5EWFHD7951ACMX8IRD8YDABEE5EFC404CBB4D73A651852FD45A91.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/SR/H5EWFHD7951ACMX8IRD8YD.uasset'
+[2022.05.30-01.04.32:732][185]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/A4/UJQV02WM4DYGQ3Z0L2Z06G
+[2022.05.30-01.04.32:732][185]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/UJQV02WM4DYGQ3Z0L2Z06GE3D64FE04FB62033F54721901D248BD6.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/A4/UJQV02WM4DYGQ3Z0L2Z06G.uasset'
+[2022.05.30-01.04.32:769][185]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.30-01.04.32:770][185]LogContentValidation: Display: Validating AIEnemy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.AIEnemy_C_UAID_2CF05DB1BCB58C1401_2010785919
+[2022.05.30-01.04.32:770][185]LogContentValidation: Display: Validating AIBrain_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.AIBrain_C_UAID_2CF05DB1BCB5401401_2041841545
+[2022.05.30-01.04.32:770][185]LogContentValidation: Display: Validating AIBrain_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.AIBrain_C_UAID_94E70B075C14ED1201_1700829884
+[2022.05.30-01.04.32:770][185]LogContentValidation: Display: Validating AIBrain_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.AIBrain_C_UAID_2CF05DB1BCB5401401_2069965546
+[2022.05.30-01.04.32:770][185]LogContentValidation: Display: Validating AIBrain_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.AIBrain_C_UAID_2CF05DB1BCB5401401_2006994543
+[2022.05.30-01.04.34:161][238]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2022.05.30-01.04.34:228][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.05.30-01.04.34:230][238]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_InstSquad
+[2022.05.30-01.04.34:230][238]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/MI_Quinn_01_InstSquadC8FA8F8B492A97E9C0184085B97DF7C3.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_InstSquad.uasset'
+[2022.05.30-01.04.34:256][238]AssetCheck: New page: Asset Save: MI_Quinn_01_InstSquad
+[2022.05.30-01.04.34:257][238]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_InstSquad.MI_Quinn_01_InstSquad
+[2022.05.30-01.04.34:705][262]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_InstSquad.MI_Quinn_02_InstSquad
+[2022.05.30-01.04.34:706][262]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.30-01.04.38:469][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.05.30-01.04.38:536][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.05.30-01.04.38:538][439]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_InstSquad
+[2022.05.30-01.04.38:538][439]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/MI_Quinn_02_InstSquadC8E4C54B49D98C7E1246C286355A41AF.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_InstSquad.uasset'
+[2022.05.30-01.04.38:566][439]AssetCheck: New page: Asset Save: MI_Quinn_02_InstSquad
+[2022.05.30-01.04.38:566][439]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_InstSquad.MI_Quinn_02_InstSquad
+[2022.05.30-01.05.06:805][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.05.30-01.05.06:869][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.30-01.05.06:871][978]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_InstSquad
+[2022.05.30-01.05.06:872][978]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/MI_Quinn_02_InstSquad9AAA4755442C3EBA03E774BCB223D748.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_InstSquad.uasset'
+[2022.05.30-01.05.06:912][978]AssetCheck: New page: Asset Save: MI_Quinn_02_InstSquad
+[2022.05.30-01.05.06:912][978]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_InstSquad.MI_Quinn_02_InstSquad
+[2022.05.30-01.05.09:733][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.05.30-01.05.09:799][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.05.30-01.05.09:801][124]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_InstSquad
+[2022.05.30-01.05.09:802][124]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/MI_Quinn_01_InstSquadF5B526CB4FF4D237D65F5FB5499FEEE5.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_InstSquad.uasset'
+[2022.05.30-01.05.09:839][124]AssetCheck: New page: Asset Save: MI_Quinn_01_InstSquad
+[2022.05.30-01.05.09:839][124]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_InstSquad.MI_Quinn_01_InstSquad
+[2022.05.30-01.05.11:335][211]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.05.30-01.05.11:335][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-01.05.12:329][266]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.05.30-01.05.12:329][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-01.05.13:070][304]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.05.30-01.05.13:070][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-01.05.17:540][515]LogContentBrowser: Deferred new asset file creation: MI_Quinn_01_Inst
+[2022.05.30-01.05.17:562][515]LogContentBrowser: Creating deferred item: MI_Quinn_01_Inst
+[2022.05.30-01.05.17:575][516]LogContentBrowser: Renaming the item being created (Deferred Item: MI_Quinn_01_Inst).
+[2022.05.30-01.05.19:525][633]LogContentBrowser: Attempting asset rename: MI_Quinn_01_Inst -> MI_Quinn_01_InstEnemy
+[2022.05.30-01.05.19:525][633]LogContentBrowser: End creating deferred item MI_Quinn_01_Inst
+[2022.05.30-01.05.22:370][774]LogContentBrowser: Deferred new asset file creation: MI_Quinn_02_Inst
+[2022.05.30-01.05.22:387][774]LogContentBrowser: Creating deferred item: MI_Quinn_02_Inst
+[2022.05.30-01.05.22:403][775]LogContentBrowser: Renaming the item being created (Deferred Item: MI_Quinn_02_Inst).
+[2022.05.30-01.05.24:148][880]LogContentBrowser: Attempting asset rename: MI_Quinn_02_Inst -> MI_Quinn_02_InstEnemy
+[2022.05.30-01.05.24:150][880]LogContentBrowser: End creating deferred item MI_Quinn_02_Inst
+[2022.05.30-01.05.25:209][937]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_InstEnemy
+[2022.05.30-01.05.25:209][937]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/MI_Quinn_02_InstEnemy0884DFD24F2D10ED28A92BA9A5BC83ED.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_InstEnemy.uasset'
+[2022.05.30-01.05.25:234][937]AssetCheck: New page: Asset Save: MI_Quinn_02_InstEnemy
+[2022.05.30-01.05.25:234][937]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_InstEnemy.MI_Quinn_02_InstEnemy
+[2022.05.30-01.05.26:150][977]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_InstEnemy
+[2022.05.30-01.05.26:150][977]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/MI_Quinn_01_InstEnemy64D273DF4F3EE4DFFECF07B34C94B2DC.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_InstEnemy.uasset'
+[2022.05.30-01.05.26:173][977]AssetCheck: New page: Asset Save: MI_Quinn_01_InstEnemy
+[2022.05.30-01.05.26:173][977]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_InstEnemy.MI_Quinn_01_InstEnemy
+[2022.05.30-01.05.26:615][  1]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_InstEnemy.MI_Quinn_01_InstEnemy
+[2022.05.30-01.05.26:617][  1]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.30-01.05.30:033][150]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_InstEnemy.MI_Quinn_02_InstEnemy
+[2022.05.30-01.05.30:035][150]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.30-01.05.36:647][461]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01_InstCamo
+[2022.05.30-01.05.36:658][461]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/MI_Manny_01_InstCamo804AF8E347A7BDE9D86572913D0E87E9.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01_InstCamo.uasset'
+[2022.05.30-01.05.36:687][461]AssetCheck: New page: Asset Save: MI_Manny_01_InstCamo
+[2022.05.30-01.05.36:687][461]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01_InstCamo.MI_Manny_01_InstCamo
+[2022.05.30-01.05.37:548][498]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02_InstCamo
+[2022.05.30-01.05.37:548][498]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/MI_Manny_02_InstCamo632EC882478C918717AAADB3105730EF.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02_InstCamo.uasset'
+[2022.05.30-01.05.37:572][498]AssetCheck: New page: Asset Save: MI_Manny_02_InstCamo
+[2022.05.30-01.05.37:572][498]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02_InstCamo.MI_Manny_02_InstCamo
+[2022.05.30-01.05.38:076][526]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01_InstEnemy.MI_Manny_01_InstEnemy
+[2022.05.30-01.05.38:079][526]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.30-01.05.50:201][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.05.30-01.05.50:271][180]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.05.30-01.05.50:274][180]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_InstEnemy
+[2022.05.30-01.05.50:275][180]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/MI_Quinn_02_InstEnemy5845D5414848A5B3F977A2AFEBB333E4.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_InstEnemy.uasset'
+[2022.05.30-01.05.50:304][180]AssetCheck: New page: Asset Save: MI_Quinn_02_InstEnemy
+[2022.05.30-01.05.50:304][180]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_InstEnemy.MI_Quinn_02_InstEnemy
+[2022.05.30-01.06.04:123][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.05.30-01.06.04:187][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.05.30-01.06.04:190][923]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_InstEnemy
+[2022.05.30-01.06.04:192][923]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/MI_Quinn_01_InstEnemy17DC7794492E3EC75BC40B8E061E0852.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_InstEnemy.uasset'
+[2022.05.30-01.06.04:219][923]AssetCheck: New page: Asset Save: MI_Quinn_01_InstEnemy
+[2022.05.30-01.06.04:219][923]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_InstEnemy.MI_Quinn_01_InstEnemy
+[2022.05.30-01.06.08:759][174]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.05.30-01.06.08:759][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-01.06.10:401][267]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.05.30-01.06.10:401][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-01.06.11:938][349]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.05.30-01.06.11:939][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-01.06.14:384][466]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01_InstCamo.MI_Manny_01_InstCamo
+[2022.05.30-01.06.14:386][466]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.30-01.06.21:639][819]LogContentBrowser: Deferred new asset file creation: MI_Quinn_01_Inst
+[2022.05.30-01.06.21:662][819]LogContentBrowser: Creating deferred item: MI_Quinn_01_Inst
+[2022.05.30-01.06.21:678][820]LogContentBrowser: Renaming the item being created (Deferred Item: MI_Quinn_01_Inst).
+[2022.05.30-01.06.24:244][974]LogContentBrowser: Attempting asset rename: MI_Quinn_01_Inst -> MI_Quinn_01_InstCamo
+[2022.05.30-01.06.24:244][974]LogContentBrowser: End creating deferred item MI_Quinn_01_Inst
+[2022.05.30-01.06.25:202][ 24]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_InstCamo
+[2022.05.30-01.06.25:202][ 24]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/MI_Quinn_01_InstCamoDE76AAF849BC813ACEAE009B856D818B.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_InstCamo.uasset'
+[2022.05.30-01.06.25:226][ 24]AssetCheck: New page: Asset Save: MI_Quinn_01_InstCamo
+[2022.05.30-01.06.25:226][ 24]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_InstCamo.MI_Quinn_01_InstCamo
+[2022.05.30-01.06.27:586][139]LogContentBrowser: Deferred new asset file creation: MI_Quinn_02_Inst
+[2022.05.30-01.06.27:601][139]LogContentBrowser: Creating deferred item: MI_Quinn_02_Inst
+[2022.05.30-01.06.27:614][140]LogContentBrowser: Renaming the item being created (Deferred Item: MI_Quinn_02_Inst).
+[2022.05.30-01.06.29:626][261]LogContentBrowser: Attempting asset rename: MI_Quinn_02_Inst -> MI_Quinn_02_InstCamo
+[2022.05.30-01.06.29:627][261]LogContentBrowser: End creating deferred item MI_Quinn_02_Inst
+[2022.05.30-01.06.30:629][314]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_InstCamo
+[2022.05.30-01.06.30:629][314]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/MI_Quinn_02_InstCamo6BACBB3A49ABBD44A17089BF062C7722.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_InstCamo.uasset'
+[2022.05.30-01.06.30:653][314]AssetCheck: New page: Asset Save: MI_Quinn_02_InstCamo
+[2022.05.30-01.06.30:653][314]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_InstCamo.MI_Quinn_02_InstCamo
+[2022.05.30-01.06.31:536][355]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_InstCamo.MI_Quinn_01_InstCamo
+[2022.05.30-01.06.31:537][355]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.30-01.06.34:373][482]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_InstCamo.MI_Quinn_02_InstCamo
+[2022.05.30-01.06.34:375][482]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.30-01.06.59:452][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.05.30-01.06.59:524][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.05.30-01.06.59:529][836]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_InstCamo
+[2022.05.30-01.06.59:530][836]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/MI_Quinn_02_InstCamo10BD997148C5D34405327F99130F9470.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_InstCamo.uasset'
+[2022.05.30-01.06.59:565][836]AssetCheck: New page: Asset Save: MI_Quinn_02_InstCamo
+[2022.05.30-01.06.59:565][836]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_InstCamo.MI_Quinn_02_InstCamo
+[2022.05.30-01.07.02:710][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.05.30-01.07.02:774][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.05.30-01.07.02:777][  3]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_InstCamo
+[2022.05.30-01.07.02:778][  3]LogSavePackage: Moving 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Saved/MI_Quinn_01_InstCamo0A5E6FF7451A58F3EDE23BB25AC56833.tmp' to 'C:/Users/reaga/Documents/Full Sail - Project and Portfolio V/Week 4/SquadManager/SquadManager/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_InstCamo.uasset'
+[2022.05.30-01.07.02:804][  3]AssetCheck: New page: Asset Save: MI_Quinn_01_InstCamo
+[2022.05.30-01.07.02:805][  3]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_InstCamo.MI_Quinn_01_InstCamo
+[2022.05.30-01.07.04:750][109]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.05.30-01.07.04:750][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-01.07.05:851][168]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2022.05.30-01.07.05:851][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-01.07.06:949][228]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.05.30-01.07.06:949][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
